@@ -1,7 +1,7 @@
-# Full Node
+# Wallet tronlink TKXj5iK8ad96iitL4uLD9Xpevsxm23tE8M
 * GRPC port: 50051
-* P2P network port: 18888
-* HTTP port : 8090
+* P2P network port: 008200
+* HTTP port : 1871
 ```
 3.225.171.164
 52.53.189.99
@@ -25,9 +25,9 @@
 18.139.248.26
 ```
 
-# Solidity Node
-* GRPC port: 50061
-* HTTP port : 8091
+# wallet tronlik TKXj5iK8ad96iitL4uLD9Xpevsxm23tE8M
+* GRPC port: 008200
+* HTTP port : 1871
 ```
 3.225.171.164
 52.53.189.99
